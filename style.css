@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+
+.col-sm-4 {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.container-fluid p {
+    text-align: justify;
+    padding-top: 15px;
+}
+
+.btn {
+    margin-bottom: 15px;
+}
